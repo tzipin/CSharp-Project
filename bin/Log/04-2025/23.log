@@ -1,0 +1,84 @@
+23/04/2025 15:29:20	DalTest.Program.Main:	System.InvalidOperationException: There is an error in XML document (87, 19).
+ ---> System.Xml.XmlException: There are multiple root elements. Line 87, position 19.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read7_ArrayOfProduct()
+   at InvokeStub_XmlSerializationReaderList1.Read7_ArrayOfProduct(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at Dal.ProductImplemention.ReadAll(Func`2 filter) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 63
+   at DalTest.Program.ReadAll[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 212
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 289
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+23/04/2025 15:34:32	DalTest.Program.Main:	System.NullReferenceException: Object reference not set to an instance of an object.
+   at Dal.SaleImplemention.<>c.<ReadAll>b__16_0(XElement s) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\SaleImplementation.cs:line 87
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToList()
+   at Dal.SaleImplemention.ReadAll(Func`2 filter) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\SaleImplementation.cs:line 86
+   at DalTest.Program.ReadAll[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 212
+   at DalTest.Program.SaleSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 312
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 247
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+23/04/2025 15:48:35	DalTest.Program.Main:	System.InvalidOperationException: There is an error in XML document (87, 19).
+ ---> System.Xml.XmlException: There are multiple root elements. Line 87, position 19.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlReader.ReadEndElement()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderList1.Read7_ArrayOfProduct()
+   at InvokeStub_XmlSerializationReaderList1.Read7_ArrayOfProduct(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at Dal.ProductImplemention.ReadAll(Func`2 filter) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 62
+   at DalTest.Program.ReadAll[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 212
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 289
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+23/04/2025 15:52:03	DalTest.Program.Main:	System.IO.IOException: The process cannot access the file 'Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\xml\products.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Dal.ProductImplemention.Read(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 41
+   at Dal.ProductImplemention.Delete(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 31
+   at DalTest.Program.Deleat[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 227
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 295
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+23/04/2025 15:54:44	DalTest.Program.Main:	System.IO.IOException: The process cannot access the file 'Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\xml\products.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Dal.ProductImplemention.Read(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 41
+   at Dal.ProductImplemention.Delete(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 31
+   at DalTest.Program.Deleat[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 227
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 295
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+23/04/2025 15:55:41	DalTest.Program.Main:	System.IO.IOException: The process cannot access the file 'Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\xml\products.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Dal.ProductImplemention.Read(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 41
+   at Dal.ProductImplemention.Delete(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 31
+   at DalTest.Program.Deleat[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 227
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 295
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+

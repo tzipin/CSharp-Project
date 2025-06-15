@@ -1,0 +1,40 @@
+13/05/2025 17:53:21	DalTest.Program.Main:	System.IO.IOException: The process cannot access the file 'Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\xml\products.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Dal.ProductImplemention.Read(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 42
+   at Dal.ProductImplemention.Delete(Int32 id) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 31
+   at DalTest.Program.Deleat[T](ICrud`1 crud) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 227
+   at DalTest.Program.ProductSwitch() in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 295
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+13/05/2025 17:55:45	DalTest.Program.Main:	System.IO.IOException: The process cannot access the file 'Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\xml\products.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at Dal.ProductImplemention.Read(Int32 id) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 42
+   at Dal.ProductImplemention.Delete(Int32 id) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalXml\ProductImplementation.cs:line 31
+   at DalTest.Program.Deleat[T](ICrud`1 crud) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 227
+   at DalTest.Program.ProductSwitch() in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 295
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 241
+   at DalTest.Program.Main(String[] args) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+13/05/2025 18:12:34	DalTest.Program.Main:	System.NullReferenceException: Object reference not set to an instance of an object.
+   at Dal.SaleImplemention.Update(Sale item) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalXml\SaleImplementation.cs:line 115
+   at DalTest.Program.UpdateSale() in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 133
+   at DalTest.Program.SaleSwitch() in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 315
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 247
+   at DalTest.Program.Main(String[] args) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+
+13/05/2025 18:29:13	DalTest.Program.Main:	System.NullReferenceException: Object reference not set to an instance of an object.
+   at Dal.SaleImplemention.Update(Sale item) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalXml\SaleImplementation.cs:line 115
+   at DalTest.Program.UpdateSale() in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 133
+   at DalTest.Program.SaleSwitch() in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 315
+   at DalTest.Program.MainSwitch(Int32 choose) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 247
+   at DalTest.Program.Main(String[] args) in Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\Program.cs:line 332
+

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale>
+  <sale>
+    <code>108</code>
+    <barcode>1004</barcode>
+    <amount>2</amount>
+    <price>900</price>
+    <isClub>false</isClub>
+    <startDate>2025-05-24T22:41:06.9982344+03:00</startDate>
+    <endDate>2025-03-20T00:00:00</endDate>
+  </sale>
+  <sale>
+    <code>115</code>
+    <barcode>1007</barcode>
+    <amount>1</amount>
+    <price>1400</price>
+    <isClub>true</isClub>
+    <startDate>2024-11-11T00:00:00</startDate>
+    <endDate>2024-11-12T00:00:00</endDate>
+  </sale>
+  <sale>
+    <code>122</code>
+    <barcode>1010</barcode>
+    <amount>1</amount>
+    <price>2950</price>
+    <isClub>false</isClub>
+    <startDate>2024-11-20T00:00:00</startDate>
+    <endDate>2025-05-24T22:41:07.0987988+03:00</endDate>
+  </sale>
+</ArrayOfSale>

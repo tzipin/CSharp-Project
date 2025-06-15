@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <barcode>1004</barcode>
+    <name>כסא משרדי</name>
+    <category>שולחנות_וכיסאות</category>
+    <price>500</price>
+    <amount>50</amount>
+  </Product>
+  <Product>
+    <barcode>1007</barcode>
+    <name>ארון בגדים ארבע דלתות</name>
+    <category>ארונות_וסיפריות</category>
+    <price>1500</price>
+    <amount>5</amount>
+  </Product>
+  <Product>
+    <barcode>1010</barcode>
+    <name>ספת שלושה מושבים מעור נפתחת לשתי מיטות</name>
+    <category>ספות_וכרוסאות</category>
+    <price>3000</price>
+    <amount>15</amount>
+  </Product>
+  <Product>
+    <barcode>1013</barcode>
+    <name>מיטה משולשת comphort</name>
+    <category>מיטות</category>
+    <price>2000</price>
+    <amount>2</amount>
+  </Product>
+  <Product>
+    <barcode>1016</barcode>
+    <name>ארון ספרים מעץ מלא ארבע עמודות ללא ויטרינה</name>
+    <category>ארונות_וסיפריות</category>
+    <price>4520</price>
+    <amount>11</amount>
+  </Product>
+  <Product>
+    <barcode>1019</barcode>
+    <name>ארון ספרים מסנדויץ שלושה עמודות עם ויטרינה</name>
+    <category>ארונות_וסיפריות</category>
+    <price>3500</price>
+    <amount>8</amount>
+  </Product>
+  <Product>
+    <barcode>1022</barcode>
+    <name>ארון משחקים לחדר ילדים בצבעים ורוד ותכלת</name>
+    <category>ארונות_וסיפריות</category>
+    <price>1000</price>
+    <amount>34</amount>
+  </Product>
+  <Product>
+    <barcode>1025</barcode>
+    <name>מערכת ספות 2+3 בשלל צבעים</name>
+    <category>ספות_וכרוסאות</category>
+    <price>5800</price>
+    <amount>7</amount>
+  </Product>
+  <Product>
+    <barcode>1031</barcode>
+    <name>כוורת מחולקת לשש בצבע ירוק</name>
+    <category>שולחנות_כתיבה_וכוורות</category>
+    <price>520</price>
+    <amount>100</amount>
+  </Product>
+  <Product>
+    <barcode>1034</barcode>
+    <name>שולחן למחשב</name>
+    <category>שולחנות_כתיבה_וכוורות</category>
+    <price>790</price>
+    <amount>1</amount>
+  </Product>
+  <Product>
+    <barcode>1037</barcode>
+    <name>שולחן לפינת אוכל מזכוכית + ארבע כסאות</name>
+    <category>שולחנות_וכיסאות</category>
+    <price>790</price>
+    <amount>1</amount>
+  </Product>
+  <Product>
+    <barcode>1028</barcode>
+    <name>שולחן כתיבה 1.8 מטר</name>
+    <category>שולחנות_כתיבה_וכוורות</category>
+    <price>999.9</price>
+    <amount>9</amount>
+  </Product>
+</ArrayOfProduct>

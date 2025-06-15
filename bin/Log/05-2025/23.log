@@ -1,0 +1,1192 @@
+23/05/2025 09:03:47	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:03:47	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:03:47	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:03:47	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:03:49	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:03:49	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:03:58	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:03:58	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:04:02	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:04:02	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:08:52	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:08:52	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:08:52	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:08:52	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:08:56	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:08:56	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:09:01	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:09:01	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.Delete:	start delete product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.Delete:	start delete product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:09:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:09:27	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:09:27	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:09:34	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:09:34	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:09:38	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:09:38	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.Update:	start update sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.Delete:	start delete sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.Delete:	end delete sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.Update:	end update sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:10:06	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:10:14	Dal.SaleImplemention.Delete:	start delete sale
+
+23/05/2025 09:10:14	Dal.SaleImplemention.Delete:	end delete sale
+
+23/05/2025 09:10:14	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:10:14	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:10:37	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:10:37	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:10:37	Dal.CustomerImplementation.Read:	start read customer
+
+23/05/2025 09:10:37	Dal.CustomerImplementation.Read:	end read customer
+
+23/05/2025 09:10:37	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:10:37	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:10:46	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:10:46	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:10:49	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:10:49	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:11:37	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:11:37	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:11:37	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:11:37	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:11:55	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:12:46	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:12:46	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:12:46	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:12:46	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:12:50	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:12:50	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:13:03	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:13:03	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:13:03	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:13:03	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:13:05	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:13:05	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:13:11	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:13:11	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:13:32	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:13:32	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:13:32	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:13:32	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:13:34	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:14:38	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:14:38	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:14:38	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:14:38	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:15:03	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:15:03	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:15:03	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:15:03	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:15:40	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:15:40	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:15:40	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:15:40	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:15:46	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:15:46	Dal.ProductImplemention.Read:	barcode is not found
+
+23/05/2025 09:16:11	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:16:11	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:16:11	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:16:11	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:16:28	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:16:28	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:16:28	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:16:28	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:17:46	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:17:46	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:17:46	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:17:46	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:17:49	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:17:49	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:17:56	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:17:56	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:18:00	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:18:00	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:18:02	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:18:02	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:18:02	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:18:02	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:18:02	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:18:02	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:18:15	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:18:15	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:18:30	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:18:30	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:18:30	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:18:30	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:18:32	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:18:32	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:18:35	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:18:35	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:18:35	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:18:35	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:18:35	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:18:35	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:20:14	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:20:14	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:20:14	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:20:14	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:20:16	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:20:16	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:20:17	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:20:17	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:20:17	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:20:17	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:20:17	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:20:17	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:20:29	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:20:29	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:20:31	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:20:31	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:20:31	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:20:31	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:20:31	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:20:31	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:21:00	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:21:00	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:21:00	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:21:00	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:21:03	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:21:03	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:21:05	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:21:05	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:21:05	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:21:05	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:21:05	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:21:05	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:23:37	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:23:37	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:23:37	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:23:37	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:23:39	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:23:39	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:23:41	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:23:41	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:23:41	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:23:41	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:23:41	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:23:41	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:24:14	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:24:14	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:24:14	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:24:14	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:24:20	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:24:24	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:24:27	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:24:27	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:24:27	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:24:27	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:24:27	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:24:27	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:31:48	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:31:49	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:31:49	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:31:49	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:31:52	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:31:52	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:31:54	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:31:54	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:31:54	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:31:54	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:31:54	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:31:54	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:31:57	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:31:57	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:31:59	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:31:59	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:31:59	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:31:59	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:31:59	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:31:59	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:33:17	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:33:17	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:33:17	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:33:17	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:33:18	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:33:18	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:33:21	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:33:21	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:33:21	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:33:21	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:33:21	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:33:21	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:35:20	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:35:20	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:35:20	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:35:20	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:35:21	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:35:21	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:35:25	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:35:25	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:35:25	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:35:25	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:35:25	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:35:25	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:35:58	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:35:58	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:35:58	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:35:58	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:36:01	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:01	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:02	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:02	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:02	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:02	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:36:02	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:02	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:36:26	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:36:26	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:36:26	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:36:26	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:36:28	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:28	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:29	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:29	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:29	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:29	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:36:29	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:29	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:36:36	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:36	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:38	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:36:38	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:36:38	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:38	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:36:38	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 09:36:38	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 09:40:23	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:40:23	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:40:23	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:40:23	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:42:28	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:42:28	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:42:28	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:42:28	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:42:31	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 09:42:31	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 09:42:51	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:42:51	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:42:51	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:42:51	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:43:50	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:43:50	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:43:50	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:43:50	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:44:25	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:44:25	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:44:25	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:44:25	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:45:09	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:45:09	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:45:09	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:45:09	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:47:02	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:47:02	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:47:02	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:47:02	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:47:14	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:47:14	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:47:14	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:47:14	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:48:42	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:48:42	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:48:42	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:48:42	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:49:42	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:49:42	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:49:42	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:49:42	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:50:47	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:50:47	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:50:47	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:50:47	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:51:04	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:51:04	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:51:04	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:51:04	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:51:21	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:51:21	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:51:21	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:51:21	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:55:35	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:55:35	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:55:35	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:55:35	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:56:16	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:56:16	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:56:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:56:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:56:51	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:56:51	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:56:51	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:56:51	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:58:40	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:58:40	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:58:40	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:58:40	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 09:59:02	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 09:59:02	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 09:59:02	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 09:59:02	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:00:41	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:00:41	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:00:41	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:00:41	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:01:03	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:01:03	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:01:03	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:01:03	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:01:25	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:01:25	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:01:25	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:01:25	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:02:28	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:02:28	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:02:28	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:02:28	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:19:01	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:19:01	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:19:01	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:19:01	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:19:47	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:19:47	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:19:47	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:19:47	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:20:54	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:20:54	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:20:55	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:20:55	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:30:26	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:30:26	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:30:26	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:30:26	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:30:43	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:30:43	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:30:43	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:30:43	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:31:31	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:31:31	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:31:31	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:31:31	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:31:50	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:31:50	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:31:50	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:31:50	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:32:00	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:32:00	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:32:00	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:32:00	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:32:12	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:32:12	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:32:12	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:32:13	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:32:37	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:32:37	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:32:37	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:32:37	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:32:57	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:32:57	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:32:57	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:32:57	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:33:16	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:33:16	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:33:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:33:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:33:24	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:33:24	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:33:24	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:33:24	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:34:06	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:34:06	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:34:06	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:34:06	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:34:34	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:34:34	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:34:34	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:34:34	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:34:43	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:34:43	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:34:43	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:34:43	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:35:31	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:35:31	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:35:31	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:35:31	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:36:02	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:36:02	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:36:02	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:36:02	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:36:36	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:36:36	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:36:36	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:36:36	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:36:51	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:36:51	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:36:51	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:36:51	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:36:58	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:36:58	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:05	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:37:05	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:05	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:05	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:37:05	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:05	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:37:10	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:37:10	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:11	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:37:11	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:11	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:11	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:37:11	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:11	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:37:53	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:37:53	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:37:53	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:37:53	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:37:55	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:37:55	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:56	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:37:56	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:37:56	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:56	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:37:56	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:37:56	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:40:20	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:40:20	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:40:20	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:40:20	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:40:23	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:40:23	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:40:24	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:40:24	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:40:24	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:40:24	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:40:24	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:40:24	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:41:16	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:41:16	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:41:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:41:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:41:18	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:41:18	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:41:19	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:41:19	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:41:19	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:41:19	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:41:19	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:41:19	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:44:00	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:44:00	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:44:00	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:44:00	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:44:02	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:44:02	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:44:03	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:44:03	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:44:03	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:44:03	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:44:03	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:44:03	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:44:16	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:44:16	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:44:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:44:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:44:18	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:44:18	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:44:19	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:44:19	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:44:19	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:44:19	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:44:19	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:44:19	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:47:49	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:47:49	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:47:49	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:47:49	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:47:50	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:47:50	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:47:52	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:47:52	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:47:52	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:47:52	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:47:52	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:47:52	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:48:32	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 10:48:32	Dal.CustomerImplementation.ReadAll:	end readall customer
+
+23/05/2025 10:48:32	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 10:48:32	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 10:48:34	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:48:34	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:48:36	Dal.ProductImplemention.Read:	start read product
+
+23/05/2025 10:48:36	Dal.ProductImplemention.Read:	end read product
+
+23/05/2025 10:48:36	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:48:36	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 10:48:36	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 10:48:36	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:18:37	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:18:37	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:18:45	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:18:45	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:29:20	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:29:20	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:29:27	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:29:27	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:29:30	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:29:30	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:29:33	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:29:33	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.Update:	start update sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.Delete:	start delete sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.Delete:	end delete sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.Update:	end update sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:30:07	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:30:12	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:30:12	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:30:13	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:30:13	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:32:15	Dal.CustomerImplementation.Create:	start create customer
+
+23/05/2025 11:32:15	Dal.CustomerImplementation.Create:	end create customer
+
+23/05/2025 11:32:15	Dal.CustomerImplementation.Create:	start create customer
+
+23/05/2025 11:32:15	Dal.CustomerImplementation.Create:	customer are exists
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	start create customer
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	end create customer
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	start create customer
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	end create customer
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	start create customer
+
+23/05/2025 11:34:00	Dal.CustomerImplementation.Create:	end create customer
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	start create product
+
+23/05/2025 11:34:00	Dal.ProductImplemention.Create:	end create product
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	start create sale
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	end create sale
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	start create sale
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	end create sale
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	start create sale
+
+23/05/2025 11:34:00	Dal.SaleImplemention.Create:	end create sale
+
+23/05/2025 11:34:12	Dal.SaleImplemention.ReadAll:	start readAll sale
+
+23/05/2025 11:34:12	Dal.SaleImplemention.ReadAll:	end readAll sale
+
+23/05/2025 11:34:16	Dal.ProductImplemention.ReadAll:	start readall product
+
+23/05/2025 11:34:16	Dal.ProductImplemention.ReadAll:	end readall product
+
+23/05/2025 11:34:21	Dal.CustomerImplementation.ReadAll:	start readall customer
+
+23/05/2025 11:34:21	Dal.CustomerImplementation.ReadAll:	end readall customer
+

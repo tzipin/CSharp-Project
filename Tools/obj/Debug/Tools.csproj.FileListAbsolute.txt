@@ -1,0 +1,78 @@
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\bin\Tools.deps.json
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\bin\Tools.dll
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\bin\Tools.pdb
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+C:\ציפי לימודים\C#\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\Tools.deps.json
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\Tools.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\Tools.pdb
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\Tools.deps.json
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\Tools.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\Tools.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\Tools.deps.json
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\Tools.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\Tools.pdb
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.deps.json
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.deps.json
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\Tools.pdb
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\Tools.deps.json
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\Tools.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\refint\Tools.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\Tools.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\Tools\obj\Debug\ref\Tools.dll

@@ -1,0 +1,80 @@
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\DalTest.exe
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\DalTest.deps.json
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\DalTest.runtimeconfig.json
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\DalTest.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\bin\DalTest.pdb
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.pdb
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\ref\DalTest.dll
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\bin\DalTest.exe
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\bin\DalTest.deps.json
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\bin\DalTest.runtimeconfig.json
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\bin\DalTest.dll
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\bin\DalTest.pdb
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.dll
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\refint\DalTest.dll
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.pdb
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\ציפי לימודים\c#\DotNet2025_9378_1478\DalTest\obj\Debug\ref\DalTest.dll
+D:\יד\c#\DotNet2025_9378_1478\bin\DalTest.exe
+D:\יד\c#\DotNet2025_9378_1478\bin\DalTest.deps.json
+D:\יד\c#\DotNet2025_9378_1478\bin\DalTest.runtimeconfig.json
+D:\יד\c#\DotNet2025_9378_1478\bin\DalTest.dll
+D:\יד\c#\DotNet2025_9378_1478\bin\DalTest.pdb
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.dll
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\refint\DalTest.dll
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.pdb
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\יד\c#\DotNet2025_9378_1478\DalTest\obj\Debug\ref\DalTest.dll
+Z:\B\נויגרשל ציפורה\c#\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\DalTest.exe
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\DalTest.deps.json
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\DalTest.runtimeconfig.json
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\DalTest.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\DalTest.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\DalTest\obj\Debug\ref\DalTest.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\DalTest.exe
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\DalTest.deps.json
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\DalTest.runtimeconfig.json
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\DalTest.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\DalTest.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\DalTest\obj\Debug\ref\DalTest.dll

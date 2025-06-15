@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <id>214861478</id>
+    <name>ציפי נויגרשל</name>
+    <address>חזון איש 23</address>
+    <number_phone>0556718370</number_phone>
+  </Customer>
+  <Customer>
+    <id>328189378</id>
+    <name>בתי מנדל</name>
+    <address>אבני נזר 32</address>
+    <number_phone>0548574418</number_phone>
+  </Customer>
+  <Customer>
+    <id>218985315</id>
+    <name>שני מנדל</name>
+    <address>אבני נזר 32</address>
+    <number_phone>0534136996</number_phone>
+  </Customer>
+  <Customer>
+    <id>329426951</id>
+    <name>מירי מנדל</name>
+    <address>אבני נזר 32</address>
+    <number_phone>0534166748</number_phone>
+  </Customer>
+  <Customer>
+    <id>223221839</id>
+    <name>יהודית מנדל</name>
+    <address>אבני נזר 32</address>
+    <number_phone>089760617</number_phone>
+  </Customer>
+  <Customer>
+    <id>3232</id>
+    <name>חיים</name>
+    <address>בני ברק</address>
+    <number_phone>08979797</number_phone>
+  </Customer>
+</ArrayOfCustomer>

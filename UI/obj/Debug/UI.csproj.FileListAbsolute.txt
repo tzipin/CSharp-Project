@@ -1,0 +1,120 @@
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\UI.exe
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\UI.deps.json
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\UI.runtimeconfig.json
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\UI.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\bin\UI.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.customerMain.resources
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.ManagerMenu.resources
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Permission.resources
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\refint\UI.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.pdb
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\ref\UI.dll
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Customers.resources
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Products.resources
+Z:\B\מנדל בתיה\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Sales.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.customerMain.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Customers.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.ManagerMenu.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Permission.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Products.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.Sales.resources
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\refint\UI.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.pdb
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\UI.exe
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\UI.deps.json
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\UI.runtimeconfig.json
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\UI.dll
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\bin\UI.pdb
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CopyComplete
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\ציפי לימודים\C#\חדש\DotNet2025_9378_1478\UI\obj\Debug\ref\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.exe
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.deps.json
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.runtimeconfig.json
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.customerMain.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Customers.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.ManagerMenu.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Permission.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Products.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Sales.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\refint\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\ref\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Properties.Resources.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.customerMain.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Customers.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.ManagerMenu.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Permission.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Products.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Properties.Resources.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.Sales.resources
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\refint\UI.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.pdb
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.exe
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.deps.json
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.runtimeconfig.json
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\bin\UI.pdb
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CopyComplete
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\ref\UI.dll
+C:\תכנות\תכנות\יד\C#\‏‏גמור - עותק\DotNet2025_9378_1478\UI\obj\Debug\UI.NewClub.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\UI.exe
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\UI.deps.json
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\UI.runtimeconfig.json
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\bin\UI.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.customerMain.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.Customers.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.ManagerMenu.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.NewClub.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.Permission.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.Products.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.Properties.Resources.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.Sales.resources
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\refint\UI.dll
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.pdb
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\מנדל בתיה\C#\‏‏גמור -לגמרי\DotNet2025_9378_1478\UI\obj\Debug\ref\UI.dll
